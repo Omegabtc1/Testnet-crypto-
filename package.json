@@ -10,8 +10,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@stacks/network": "^7.0.2",
     "@stacks/stacking": "^6.16.0",
     "@stacks/transactions": "^7.0.2",
-    "axios": "^1.7.7"
+    "axios": "^1.7.7",
+    "stxcity-sdk": "^1.0.10"
   }
 }
