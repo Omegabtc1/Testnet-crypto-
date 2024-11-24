@@ -1,7 +1,7 @@
 {
   "name": "testnet-crypto",
   "version": "1.0.0",
-  "description": "",
+  "description": "## Overview",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,10 +10,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@stacks/connect": "^7.9.0",
     "@stacks/network": "^7.0.2",
     "@stacks/stacking": "^6.16.0",
     "@stacks/transactions": "^7.0.2",
     "axios": "^1.7.7",
+    "dotenv": "^16.4.5",
     "stxcity-sdk": "^1.0.10"
   }
 }
