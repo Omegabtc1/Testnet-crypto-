@@ -19,7 +19,4 @@ const stacksNetwork = new StacksNetwork({ url: stxcityConfig.STACKS_NETWORK_API_
 const stxcitySDK = new StxCitySDK(stacksNetwork, stxcityConfig);
 
 // Test to see if SDK is initialized successfully
-console.log("StxCity SDK Initialized Successfully!");
-
-// Now you can start using stxcitySDK in your application.
-
+console.log("StxCity SDK Initialized Successfully!");u
